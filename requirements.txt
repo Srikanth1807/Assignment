@@ -1,0 +1,17 @@
+Install pip:
+Add "Python insstallled location\Scripts" location to System Environment varaibles.
+	Open Command prompt and run pip -V cmd.
+	Ex result: pip 20.2.4
+	
+		Or
+Goto https://bootstrap.pypa.io/get-pip.py and copy all the code and save it into get-pip.py file.
+Goto the get-pip.py file location and run below command
+	python get-pip.py
+Now Open Command prompt and run pip -V cmd.
+	Ex result: pip 20.2.4
+
+
+Install the below Python modules:
+1. requests (pip install requests)
+2. pytest (pip install pytest)
+3. pytest-html (pip install pytest-html)
